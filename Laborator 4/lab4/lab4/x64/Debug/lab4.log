@@ -1,0 +1,7 @@
+﻿  transform.cpp
+D:\Documents\Facultate\EGC\Laborator\Laborator 4\lab4\lab4\transform.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Documents\Facultate\EGC\Laborator\Laborator 4\lab4\lab4\transform.cpp(39,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Facultate\EGC\Laborator\Laborator 4\lab4\lab4\transform.cpp(91,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Facultate\EGC\Laborator\Laborator 4\lab4\lab4\transform.cpp(102,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\Facultate\EGC\Laborator\Laborator 4\lab4\lab4\transform.cpp(113,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  lab4.vcxproj -> D:\Documents\Facultate\EGC\Laborator\Laborator 4\lab4\x64\Debug\lab4.exe
