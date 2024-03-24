@@ -1,3 +1,0 @@
-﻿  mat4.cpp
-D:\Documents\Facultate\EGC\Laborator\Laborator 3\lab3\lab3\mat4.cpp(114,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-  lab3.vcxproj -> D:\Documents\Facultate\EGC\Laborator\Laborator 3\lab3\x64\Debug\lab3.exe
